@@ -1,0 +1,4 @@
+name: RPGCore
+api: [1.0.7]
+version: 1.0.0
+main: scc.mcpe.ServerPlugin.Core
